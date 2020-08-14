@@ -1,15 +1,13 @@
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop?
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people with [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deut-erium/)
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time 
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: everyone's a noob without StackOverflow. 
 
 <details>
-<summary> <b>Jokes apart, I love participating in CTF contests</b> <i>(click to expand!)</i> </summary>
+<summary> <b>Jokes apart, I love UI Designing and Web Development</b> <i>(click to expand!)</i> </summary>
 <br>
 Here are few profiles you may be interested to stalk
 <ul>
@@ -21,9 +19,6 @@ Here are few profiles you may be interested to stalk
  <li> Check out my Hacker Rank on <a href="https://www.wechall.net/profile/deuterium">WeChall</a> and other linked profiles there :wink: </li>
 </ul>
 </details>
-
-If you love fractals, do check out my python library namely [pyfractal](https://github.com/deut-erium/pyfractal)   
-Moreover, collaborators needed for my skid [trolling campaign](https://github.com/deut-erium/hacking_tools)
 
 ![deuterium's github](https://github-readme-stats.vercel.app/api?username=deut-erium&show_icons=true&hide_border=true)
 
@@ -38,4 +33,4 @@ Moreover, collaborators needed for my skid [trolling campaign](https://github.co
 </p>
 
 
-⭐️ From [deut-erium](https://github.com/deut-erium)
+⭐️ From [ankitanshu22](https://github.com/ankitanshu22)
