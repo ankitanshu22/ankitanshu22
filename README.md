@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/animated.gif?raw=1" width="200vw" />
+<img align="center" alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/animated.gif?raw=1"/>
 
 - <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop?
 - <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people.
