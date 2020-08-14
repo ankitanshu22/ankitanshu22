@@ -8,8 +8,9 @@
 
 <details>
 <br>
+ <br>
 <summary> <b>Jokes apart, I love UI Designing and Web Development</b> <i>(click to expand!)</i> </summary>
-<br>
+
 Here are my few projects you may be interested to have a look at
 <ul>
  <li><a href="https://ankitanshuswaroop.com">Personal Portfolio</a> </li>
