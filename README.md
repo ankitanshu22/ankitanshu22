@@ -2,14 +2,14 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop XD
-- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people.
+- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people
 - <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
-- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
-- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: everyone's a noob without StackOverflow. 
+- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with pretending to be serious in README
+- <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: everyone's a noob without StackOverflow 
 <br>
 <details>
 <br>
-<summary> <b>Jokes apart, I love UI Designing and Web Development</b> <i>(click to expand!)</i> </summary>
+<summary> <b>Jokes apart, I love UI/UX Designing and Web Development</b> <i>(Click to expand!)</i> </summary>
 
 Here are my few projects you may be interested to have a look at
 <ul>
