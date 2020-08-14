@@ -16,7 +16,6 @@ Here are my few projects you may be interested to have a look at
 </ul>
 </details>
 
-![ankitanshu22's github](https://github-readme-stats.vercel.app/api?username=ankitanshu22&show_icons=true&hide_border=true)
 
 <p align="center">
  <a href="mailto:ankitanshu22@gmail.com"><img src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
