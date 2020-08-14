@@ -7,6 +7,7 @@
 - <img alt="GIF" src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: everyone's a noob without StackOverflow. 
 
 <details>
+<br>
 <summary> <b>Jokes apart, I love UI Designing and Web Development</b> <i>(click to expand!)</i> </summary>
 <br>
 Here are my few projects you may be interested to have a look at
@@ -15,7 +16,7 @@ Here are my few projects you may be interested to have a look at
  <li>Internship Project - <a href="https://zecide.com">Zecide Website</a></li>
 </ul>
 </details>
-
+<br>
 
 <p>
  <a href="mailto:ankitanshu22@gmail.com"><img src="https://github.com/ankitanshu22/ankitanshu22/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
